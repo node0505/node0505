@@ -12,6 +12,10 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/689805100331696149)](https://discord.com/users/689805100331696149)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 # Fancy a game of chess?
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
