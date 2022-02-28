@@ -13,13 +13,15 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/689805100331696149)](https://discord.com/users/689805100331696149)
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       55 mins         █████████░░░░░░░░░░░░░░░░   36.27 % 
-TypeScript   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
-JSON         23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-JavaScript   22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Docker       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Python       46 mins         ██████████████▓░░░░░░░░░░   59.17 %
+HTML         12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Docker       8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+JavaScript   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
+
 <!--END_SECTION:waka-->
 
 # Fancy a game of chess?
