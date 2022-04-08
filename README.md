@@ -58,7 +58,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 Having fun? Ask a friend to do the next move!
 
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/ilikecheesybread/ilikecheesybread/issues) and I will try to fix it as soon as possible :D
+Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/node0505/node0505/issues) and I will try to fix it as soon as possible :D
 
 
 <details>
