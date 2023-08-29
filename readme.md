@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       9 mins          ████████████████████████▓   99.04 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+INI   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
