@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         13 mins         █████████████▓░░░░░░░░░░░   55.23 %
-HTML         10 mins         ███████████░░░░░░░░░░░░░░   43.50 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
