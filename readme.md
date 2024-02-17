@@ -3,8 +3,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   41 mins         ██████████████████████▒░░   88.78 %
-Python     5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+HTML         1 hr 11 mins    ███████████████████░░░░░░   76.61 %
+JavaScript   21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
 ```
 
 <!--END_SECTION:waka-->
