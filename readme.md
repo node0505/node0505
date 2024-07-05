@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP     3 mins          ████████████████████████░   96.39 %
-INI     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
