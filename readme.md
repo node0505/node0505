@@ -3,7 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java Properties   0 secs          █████████████████████████   100.00 %
+HTML              20 mins         ██████████████░░░░░░░░░░░   55.85 %
+Docker            14 mins         ██████████░░░░░░░░░░░░░░░   39.52 %
+Other             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Bash              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
