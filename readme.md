@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   10 mins         ███████████████████████▒░   92.78 %
-YAML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
