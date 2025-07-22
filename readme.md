@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   27 mins         ███████████████████████▒░   92.96 %
-YAML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Docker       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
